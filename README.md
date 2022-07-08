@@ -2,7 +2,7 @@
 - I am brazilian, born in 1991, newbie, curious and smart ;)
 - 👀 I’m interested in Data Science, Computing Science and SalesForce! 
 - 🌱 I’m currently learning Python, MySQL, SOQL, Apex... 
-- I am on the 2 (2/8) period of the College of Cumputing Science.
+- I am on the 2 (2/8) period of the Major of Cumputing Science.
 - 📫 E-mail: neliasimas@hotmail.com. 
 
 -░░░░░░░░░░░░░░░░░░░░░▄▀░░▌ <br>
