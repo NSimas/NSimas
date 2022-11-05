@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NSimas - Nélia Simas
+- 👋 Hi, I’m @NSimas - **Nélia Simas**
 - I am brazilian, born in 1991, newbie, curious and smart ;)
 - 👀 I’m interested in Data Science, Computing Science and SalesForce! 
 - 🌱 I’m currently learning Python, MySQL, SOQL, Apex... 
