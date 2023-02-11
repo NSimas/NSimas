@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NSimas - **Nélia Simas**
 - I am brazilian, born in 1991, newbie, curious and smart ;)
 - 👀 I’m interested in Data Science, Computing Science and SalesForce! 
-- 🌱 I’m currently learning Java, Python, MySQL, SOQL, Apex... 
-- I am on the 2 (2/8) period of the Major of Cumputing Science.
+- 🌱 I’m currently learning C#... 
+- I am on the 3rd (3/8) period of the Major of Cumputing Science and 3rd (3/5) period of the Systems Analysis and Development technologist Major.
 - 📫 E-mail: **neliasimas@hotmail.com**. 
 
 -░░░░░░░░░░░░░░░░░░░░░▄▀░░▌ <br>
